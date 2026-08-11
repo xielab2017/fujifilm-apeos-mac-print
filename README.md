@@ -22,3 +22,7 @@ Or unzip a release and run the same `install.sh`.
 ## Docs
 
 See [`SKILL.md`](SKILL.md) (agent instructions) and [`reference.md`](reference.md) (troubleshooting).
+
+## Windows sibling
+
+https://github.com/xielab2017/fujifilm-apeos-windows-print
